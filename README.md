@@ -1,1 +1,1 @@
-# Fruitcollector2
+# fruitCollect
